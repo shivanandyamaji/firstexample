@@ -1,0 +1,9 @@
+class Simple
+{
+String a="Ramesh";
+String b=""Suresh";
+if(a.equals(b))
+{
+System.out.println("ture");
+}
+}

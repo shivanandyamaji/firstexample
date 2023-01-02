@@ -1,0 +1,36 @@
+Q1> what is java?
+Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+2> features of java?
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+3>What is Java Compiler | How works it?
+Java Compiler and Interpreter are the most fundamental tools in Java language that programmers use during programming.
+
+A compiler in Java is a computer program that is used for compiling Java programs. It is platform-independent. It converts (translates) source code (.java file) into bytecode (.class file).
+
+4> Interpreter vs Compiler
+Interpreter in Java is a computer program (software) that implements Java Virtual Machine (JVM) and runs Java applications (programs).
+
+It translates (converts) bytecode to machine code (native code) line by line during runtime.
+
+In other words, Java interpreter is a computer program that converts the high-level program into assembly language (machine language).
+It is used for executing Java programs. Interpreter takes bytecode as an input and executes that code by converting it to machine code. It is recognized by “Java.exe” command.
+
+
+5>Keywords in Java | Reserved Keywords?
+Keywords in Java are predefined words that have specific meanings to the compiler and that meanings cannot be changed
+6> java is not purely object oriented language?
+No! Java is not a "PURE" Object Oriented Language , because it uses primitive data types such as (int,float,char...etc). The developers of java could have made these primitive data types as objects(like String... etc), but the primitive data types such as int float... are more faster than objects! So, in order to achieve faster execution of java program they kept Primitive data type as it is!!
+
+So Java is said to be 98% Object oriented language but not PURE Object Oriented language!!
+7> stack vs hr
